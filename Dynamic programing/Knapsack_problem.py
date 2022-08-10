@@ -86,10 +86,3 @@ def knapsack(W, C, limit):
             l -= new_W[i]
             maxi -= new_C[i]
     return output
-
-
-C = [20, 5, 10, 40, 15, 25]
-W = [1, 2, 3, 8, 7, 4]
-Limit = 10
-
-print(knapsack(W, C, Limit))
