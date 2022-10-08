@@ -1,2 +1,2 @@
 # Algorithms and Data Structures
-Algorithms from ASD course on AGH UST
+Algorithms and Data Structures course 2021/22 at AGH UST.
